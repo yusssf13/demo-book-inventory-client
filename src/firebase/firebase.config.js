@@ -5,14 +5,14 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyADbCpiUH_h4g-XJhb8NzI8txG6Tr9TafQ",
-  authDomain: "fir-book-inventory-98817.firebaseapp.com",
-  projectId: "fir-book-inventory-98817",
-  storageBucket: "fir-book-inventory-98817.firebasestorage.app",
-  messagingSenderId: "357062179477",
-  appId: "1:357062179477:web:f665a9838f2195f5e3799c"
+  apiKey: "AIzaSyBVMTP3yPI6ezSlLJhIuyEBodNSyGjdXvs",
+  authDomain: "fir-book-inventory-b8715.firebaseapp.com",
+  projectId: "fir-book-inventory-b8715",
+  storageBucket: "fir-book-inventory-b8715.firebasestorage.app",
+  messagingSenderId: "792822450823",
+  appId: "1:792822450823:web:354543095d94fc84560622"
 };
 
-
 // Initialize Firebase
-const app = initializeApp(firebaseConfig);   
+const app = initializeApp(firebaseConfig);
+export default app ;
